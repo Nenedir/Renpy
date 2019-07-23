@@ -1,0 +1,5 @@
+vbox:
+    style_prefix "pref"
+    label _("Language")
+    textbutton "English" action Language(None)
+    textbutton "Turkish" action Language("Turkish")
